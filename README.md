@@ -122,7 +122,7 @@ crop_AI/
 
 ## 📊 Model Info
 
-- **38+ crop disease classes** detected
+- **16+ crop disease classes** detected
 - **~95% accuracy** on test dataset
 - Based on **PlantVillage dataset**
 - Input: RGB crop leaf image
