@@ -1,0 +1,30 @@
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+**/ephemeral/
+**/.plugin_symlinks/
+**/.cxx/
+**/CMakeFiles/
+android/app/build/
+android/build/
+**/.gradle/
+*.apk
+*.aab
+*.ipa
+*.class
+*.log
+*.bin
+archive/
+model/
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Uploads folder
+**/uploads/
+
+# Submodule
+agri mobile app/backend/cropai-backend
