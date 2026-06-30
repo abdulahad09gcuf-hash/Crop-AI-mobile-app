@@ -115,7 +115,7 @@ crop_AI/
 | Backend API | Python + FastAPI |
 | Authentication | JWT |
 | Database | SQLite |
-| AI/ML | TensorFlow (image classification) |
+| AI/ML | Pytourch (image classification) |
 | Platforms | Android, iOS, Linux, Windows |
 
 ---
