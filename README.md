@@ -9,6 +9,13 @@
 
 ---
 
+## 🎥 Demo
+
+<!-- To make the video play inline: edit this README on GitHub, delete the line below, and drag-drop crop_ai_demo.mp4 here. -->
+▶️ **[Watch the demo video](crop_ai_demo.mp4)** — see CropAI detect a crop disease from a photo and suggest treatment.
+
+---
+
 ## ✨ Features
 
 - 🔍 **Disease detection** — Snap a photo and get instant AI-powered crop disease diagnosis
@@ -115,7 +122,7 @@ crop_AI/
 | Backend API | Python + FastAPI |
 | Authentication | JWT |
 | Database | SQLite |
-| AI/ML | Pytouch (image classification) |
+| AI/ML | PyTorch (image classification) |
 | Platforms | Android, iOS, Linux, Windows |
 
 ---
